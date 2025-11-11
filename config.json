@@ -1,0 +1,12 @@
+{
+  "project": "final-project-ml",
+  "data_path": "Base_de_datos.csv",
+  "model": {
+    "name": "marketing_campaign_model",
+    "version": "1.0"
+  },
+  "training": {
+    "test_size": 0.2,
+    "random_state": 42
+  }
+}
